@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Olá! Sou o Yuri
+telescope Estou atualmente estudando Análise e Desenvolvimento de Sistemas na Universidade de Vila Velha
+seedling Enquanto faço a faculdade também estudo sobre Java Script e Python por fora.
+ 
+   
 <!--
 **Morcego35/Morcego35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
