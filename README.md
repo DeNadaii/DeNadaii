@@ -1,8 +1,4 @@
-### Hi there 👋
 
-Olá! Sou o Yuri
-telescope Estou atualmente estudando Análise e Desenvolvimento de Sistemas na Universidade de Vila Velha
-seedling Enquanto faço a faculdade também estudo sobre Java Script e Python por fora.
  
    
 <!--
