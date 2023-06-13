@@ -6,5 +6,5 @@
 
 <div>
 <a href="https://github.com/DeNadaii">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeNadaii&layout=compact&langs_count=7"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeNadaii&layout=compact&langs_count=7&theme=dark"/>
 </div>
