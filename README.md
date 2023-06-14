@@ -10,7 +10,7 @@ I'm a programming enthusiast with experience in various languages, including Pyt
 
 <div align="center">
 <a href="https://github.com/DeNadaii">
-<img height="275em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeNadaii&layout=compact&langs_count=7&theme=dark"/>
+<img height="225em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeNadaii&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ## Tools
@@ -28,7 +28,7 @@ You can get in touch with me via email at  or through the following social media
 <div align="center">
 <a href="https://www.youtube.com/channel/UCcaOnULITRJib2HqomdNgbA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-<a href = "igoroliveiradenadai@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="igoroliveiradenadai@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/igor-de-nadai-683168195/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
