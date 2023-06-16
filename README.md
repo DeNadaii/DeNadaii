@@ -6,14 +6,13 @@ Hello there! I'm Igor, and this is my GitHub profile.
 
 I'm a programming enthusiast with experience in various languages, including Python, Java, and JavaScript. Alongside my studies in Physics and Information Systems, I have a keen interest in the intersection of technology and scientific research. My areas of focus include web development, and data science. I'm always eager to apply my programming skills to solve complex problems and explore new avenues of innovation.
 
-## Languages 
-
 <div align="center">
 <a href="https://github.com/DeNadaii">
 <img height="225em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeNadaii&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-## Tools
+## Languages and tools 
+
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
